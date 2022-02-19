@@ -1,0 +1,28 @@
+#button_sort{
+    display:none;
+}
+
+#button_submit{
+    margin-top:20;
+    margin-bottom:20;
+}
+
+body{
+    background-image:url("http://getwallpapers.com/wallpaper/full/b/d/2/20255.jpg");
+    color:white;
+    font-family: 'Inconsolata', monospace;
+}
+
+input{
+    margin: 10px;
+}
+
+h3{
+    font-size: 25px;
+}
+
+#button_submit{
+    background-color:darkolivegreen;
+    border-radius: 20px;
+    font-size: 20px;
+}
